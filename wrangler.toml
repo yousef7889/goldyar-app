@@ -1,7 +1,0 @@
-name = "gold-yar-app"
-compatibility_date = "2026-02-15"
-
-[site]
-bucket = "."
-
-# این تنظیمات میگه که همه فایل‌های HTML رو به عنوان static site deploy کنه
